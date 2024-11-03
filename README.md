@@ -1,7 +1,7 @@
 # Web-Development-Coursework
 Coursework for my 1st year module- Introduction to Web Development
 
-n this assignment, you are required to build a dynamic web application using PHP running on a
+In this assignment, you are required to build a dynamic web application using PHP running on a
 Web Server. It is also recommended to use Visual Studio Code as the development environment.
 The technological and functional requirements relate to the development of a Music
 Recommendation Site. The design for the application needs to support content that provides
